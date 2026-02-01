@@ -1,4 +1,4 @@
-A Python‑based analytics engine built with pandas, NumPy, and yfinance. Includes full technical indicator support (RSI, MACD, Bollinger Bands, moving averages), multi‑source news aggregation, and valuation models (DCF, EPV, and multiples).
-Features an automated 1–10 scoring framework that generates BUY/HOLD/SELL recommendations.
-Integrated Google Gemini API for AI‑driven price‑event interpretation with robust retry/backoff logic.
-Also supports trading signal detection (Golden Cross, Death Cross, 52‑week breakouts) and sector benchmarking against major ETF indices.
+- A Python‑based analytics engine built with pandas, NumPy, and yfinance. Includes full technical indicator support (RSI, MACD, Bollinger Bands, moving averages), multi‑source news aggregation, and valuation models (DCF, EPV, and multiples).
+- Features an automated 1–10 scoring framework that generates BUY/HOLD/SELL recommendations.
+- Integrated Google Gemini API for AI‑driven price‑event interpretation with robust retry/backoff logic.
+- Also supports trading signal detection (Golden Cross, Death Cross, 52‑week breakouts) and sector benchmarking against major ETF indices.
