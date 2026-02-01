@@ -2,3 +2,4 @@
 - Features an automated 1–10 scoring framework that generates BUY/HOLD/SELL recommendations.
 - Integrated Google Gemini API for AI‑driven price‑event interpretation with robust retry/backoff logic.
 - Also supports trading signal detection (Golden Cross, Death Cross, 52‑week breakouts) and sector benchmarking against major ETF indices.
+- DISCLAIMER: Educational only. NOT financial advice.
